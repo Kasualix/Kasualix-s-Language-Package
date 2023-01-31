@@ -1,4 +1,4 @@
-# Kasualix-s-Language-Package
+# Kasualix's Language Package
 我的汉化文件存储库。
 
 都是已经给对应模组官方 GitHub 发了 PR 的资源。（CFPA？那边审核太慢，等不起。）
